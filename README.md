@@ -460,7 +460,7 @@ This project represents my commitment to bridging cutting-edge research with pra
 
 **Let's connect:**
 - 🌐 Portfolio: [Coming Soon.com](https://your-website.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [linkedin.com/in/KevlarZanderChi]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/kevlar-zander-chi-73ab80362/))
 - 📧 Email: kevlarchi313@gmail.com
 - 🐦 Instagram: [@kevlarchi](https://instagram.com/kevlarchi)
 
