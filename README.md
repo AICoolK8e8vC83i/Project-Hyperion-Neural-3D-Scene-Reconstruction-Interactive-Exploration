@@ -453,7 +453,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 👤 About the Developer
 
 **[Kevlar Chi]**  
-Undergraduate Student | NLP, AI Agents and Systems, Computer Vision & AI Researcher / Engineer  
+Undergraduate Student | NLP, AI Agents and Systems, Computer Vision, AI Safety & Alignment Researcher / Engineer  
 Applying to UC Berkeley/UCLA/UCI for Computer Science (Transfer)
 
 This project represents my commitment to bridging cutting-edge research with practical deployment. I built this entire pipeline—from capture to web deployment—in 7 weeks while maintaining a full course load.
