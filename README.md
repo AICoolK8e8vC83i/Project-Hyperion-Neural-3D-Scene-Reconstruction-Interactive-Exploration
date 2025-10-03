@@ -459,10 +459,10 @@ Applying to UC Berkeley/UCLA/UCI for Computer Science (Transfer)
 This project represents my commitment to bridging cutting-edge research with practical deployment. I built this entire pipeline—from capture to web deployment—in 7 weeks while maintaining a full course load.
 
 **Let's connect:**
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 🌐 Portfolio: [Coming Soon.com](https://your-website.com)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: kevlarchi313@gmail.com
+- 🐦 Instagram: [@kevlarchi](https://instagram.com/kevlarchi)
 
 ---
 
